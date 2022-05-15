@@ -1,6 +1,14 @@
 import java.util.Scanner;
 
-public class main {
+// Tugas Kelompok 4 (JTBA - Intro to Programming) dengan Anggota:
+// - AL FALAH LAZUARDI MAHMUDI (2502098481)
+// - CANDRA IBRA SANIE (2502100044)
+// - FADHIL RIZKY (2401983786)
+// - ZAINUDIN ABDULLAH (2502078946)
+// - ZHAFIRAH YASSAR (2401979555)
+// Link GitHub: https://github.com/binopt/tk-3
+
+public class sorting {
     //method untuk sorting menggunakan bubble sort
     public static void bubbleSort(int[] list, String direction) {
         for (int i = 1; i < list.length; i++) {
