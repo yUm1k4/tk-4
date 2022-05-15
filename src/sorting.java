@@ -6,7 +6,7 @@ import java.util.Scanner;
 // - FADHIL RIZKY (2401983786)
 // - ZAINUDIN ABDULLAH (2502078946)
 // - ZHAFIRAH YASSAR (2401979555)
-// Link GitHub: https://github.com/binopt/tk-3
+// Link GitHub: https://github.com/yUm1k4/tk-4
 
 public class sorting {
     //method untuk sorting menggunakan bubble sort
